@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\bin\Debug\net8.0\ShapeProject.exe
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\bin\Debug\net8.0\ShapeProject.deps.json
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\bin\Debug\net8.0\ShapeProject.runtimeconfig.json
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\bin\Debug\net8.0\ShapeProject.dll
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\bin\Debug\net8.0\ShapeProject.pdb
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.AssemblyInfo.cs
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.dll
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\refint\ShapeProject.dll
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.pdb
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ShapeProject.genruntimeconfig.cache
+C:\Users\User\Documents\Projetos\Shape\ShapeProject\obj\Debug\net8.0\ref\ShapeProject.dll
